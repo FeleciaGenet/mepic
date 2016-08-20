@@ -84,7 +84,7 @@ class FeedTableViewController: UITableViewController {
             }
         }
         
-        
+        print("This is a test ")
     }
 
     override func didReceiveMemoryWarning() {
